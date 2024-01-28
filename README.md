@@ -5,7 +5,7 @@
 Представь: тебе нужно проверить, отображается ли созданный заказ в базе данных.
 Для этого: выведи список логинов курьеров с количеством их заказов в статусе «В доставке» (поле inDelivery = true). 
 
-Ответ:
+####  Ответ:
 
 код запроса
 
@@ -29,7 +29,7 @@
 Для остальных случаев вывести 0.
 
 
-Ответ:
+####  Ответ:
 
 код запроса
 
@@ -42,6 +42,8 @@
           FROM "Orders" ;
 
 ####  Результат запроса представлен на скриншоте [sql-запрос2.jpg](https://github.com/Jaroslav1984/11sprint_test/blob/main/sql-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%812.jpg)
+
+##### Коды запросов по 1 и 2 заданию также продублированы здесь: [ЗапросыSQL.txt](https://github.com/Jaroslav1984/11sprint_test/blob/main/%D0%97%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8BSQL.txt)
 
 
 
@@ -61,7 +63,7 @@
 
 
 
-Ответ:
+####  Ответ:
 
 Файлы в репозитории для использования в автотесте в Pycharm: [data.py](https://github.com/Jaroslav1984/11sprint_test/blob/main/data.py), [configuration.py](https://github.com/Jaroslav1984/11sprint_test/blob/main/configuration.py), [sender_stand_request.py](https://github.com/Jaroslav1984/11sprint_test/blob/main/sender_stand_request.py)
 
