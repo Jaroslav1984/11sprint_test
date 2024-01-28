@@ -15,7 +15,7 @@
               WHERE o."inDelivery" = true
               GROUP BY c.login ;
 
-####  Результат запроса представлен на скриншоте sql-запрос1.jpg
+####  Результат запроса представлен на скриншоте [sql-запрос1.jpg](https://github.com/Jaroslav1984/11sprint_test/blob/main/sql-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%811.jpg)
 
 
 
