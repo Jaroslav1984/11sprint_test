@@ -63,8 +63,8 @@
 
 Ответ:
 
-Файлы для использования в Pycharm data.py, configuration.py, sender_stand_request.py
+Файлы в репозитории для использования в автотесте в Pycharm: data.py, configuration.py, sender_stand_request.py
 
 
-####  Результат автотеста представлен на скриншоте autotest.jpg
+####  Результат автотеста представлен на скриншоте [autotest.jpg](https://github.com/Jaroslav1984/11sprint_test/blob/main/autotest.jpg)
 
